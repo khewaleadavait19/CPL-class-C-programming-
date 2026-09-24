@@ -1,1 +1,0 @@
-# `Q.` write given notes code snippet in notebook
