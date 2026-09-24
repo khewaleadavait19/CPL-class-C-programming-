@@ -1,1 +1,1 @@
-# `Q.` write given notes code snippet in notebook
+# `Q.` write given notes in notebook
